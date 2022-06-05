@@ -3,7 +3,7 @@
 ## Tareas
 
 - [ ] Aceptar el assignment y clonar el repositorio con el ejercicio
-- [ ] Reemplazar nombre, apeido y legajo en este archivo
+- [ ] Reemplazar nombre, apellido y legajo en este archivo
 
 - Nombre y apellido:
 - Legajo:
