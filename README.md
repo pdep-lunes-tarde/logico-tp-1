@@ -22,7 +22,7 @@ Tener instalado [prolog](https://github.com/pdep-utn/enunciados-miercoles-noche/
 
 ## El enunciado
 
-Escribir los tests que consideren importantes en cada punto.
+Resolver cada punto y escribir los tests que consideren importantes en cada uno.
 
 ## Punto 1: empleados
 
