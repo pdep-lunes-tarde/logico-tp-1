@@ -13,8 +13,6 @@
 - Nombre y apellido:
 - Legajo:
 
-- Nombre y apellido:
-- Legajo:
 
 ## Pre-requisitos
 
