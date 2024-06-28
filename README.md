@@ -64,7 +64,7 @@ Escribí un programa Prolog que resuelva el siguiente problema lógico:
 Al programa le tengo que poder preguntar quién es el asesino de la tía Agatha, y tiene que brindar una sola respuesta, de la siguiente forma:
 
 ```prolog
-? asesino(agatha, Asesino).
+? asesino(Asesino, agatha).
 Asesino = ???
 ```
 
